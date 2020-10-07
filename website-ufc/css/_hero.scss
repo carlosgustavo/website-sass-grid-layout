@@ -1,0 +1,77 @@
+/*=============== 
+HERO
+==================*/
+section.hero {
+  margin: 80px 0;
+}
+
+section.hero .container {
+  width: 90%;
+  max-width: 980px;
+
+  margin: auto;
+
+  display: flex;
+}
+
+section.hero p {
+  color: rgb(64, 64, 64);
+  font-size: 1.8rem;
+  line-height: 3.2rem;
+}
+section.hero .container div p a {
+  color: #6f3190;
+  text-decoration: none;
+  background-color: transparent;
+  &:hover {
+    color: $primary-color;
+    text-decoration: underline;
+  }
+}
+section.hero .container div.hero-img img {
+  border-radius: 100px;
+  max-width: 70px;
+  max-height: 70px;
+  margin: 5px 5px 0 0;
+}
+
+section.hero .container div.hero-img {
+  display: flex;
+  margin: 0px 0px 20px 1px;
+}
+
+section.hero .container div.hero-img div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+section.hero .container div.hero-img div p {
+  color: #404040;
+  font-size: 1.8rem;
+  line-height: 3.8rem;
+  font-weight: normal;
+  height: 20px;
+
+  /* margin: -14px 0px 0px 2px; */
+}
+section.hero .container div.hero-img div.icon {
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+  a:hover {
+    transform: translateY(-3px);
+  }
+}
+
+section.hero .container div.hero-img div.icon img {
+  width: 40px;
+  height: 40px;
+}
+section.hero .container div.rocket-img img {
+  max-width: 303px;
+  height: 255px;
+  margin-top: -70px;
+}
+section.hero .container div.rocket-img img:hover {
+  transform: translateY(-2px);
+}
