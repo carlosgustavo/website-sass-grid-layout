@@ -1,2 +1,2 @@
 # sass-website
-Website desenvolvido com pre-processador Sass
+Responsive website, developed with Sass preprocessor
