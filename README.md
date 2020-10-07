@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 -  [HTML](https://www.w3schools.com/html/)
 -  [CSS](https://www.w3schools.com/css/)
 -  [JAVA SCRIPT](https://www.javascript.com/)
--  [SCSS](https://www.javascript.com/)
+-  [SCSS](https://sass-lang.com/)
 
 ## :information_source: How To Use
 
