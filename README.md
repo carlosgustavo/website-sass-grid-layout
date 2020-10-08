@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-Responsive website, developed with Sass preprocessor.
+Responsive website, developed with Sass preprocessor,Grid layout.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/sass-website">
