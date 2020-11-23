@@ -19,6 +19,12 @@ Responsive website, developed with Sass preprocessor,Grid layout.
                          
 ![Peek 07-10-2020 20-04-min](https://user-images.githubusercontent.com/53797220/95397114-c9691f80-08d8-11eb-9293-bf2949a30ed3.gif)
 
+<p align="center">
+  <a href="https://carlosgustavo-website-ufc.netlify.app" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+  </a>
+</p>
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
